@@ -6,7 +6,7 @@ The Arduino traffic light software is a system where 3 LEDs are used that rappre
 
 ### Requirements for testing
 - A computer
-- The Arduino IDE Software
+- Arduino IDE
 - An Arduino board that has GPIO pins enough the connect 3 LEDs. (UNO recommended, MEGA is an another choice.)
 - The .ino file inside this repo
 - 1 Red LED
@@ -19,7 +19,7 @@ Testing the code is so simple. But before we begin the steps, don't forget to co
 
 1. Download the repo as .zip to your computer or clone the repo with the command below
 
-     `git clone github.com/TurboProgramming/ArduinoTrafficLight`
+     `git clone github.com/ardacebi/ArduinoTrafficLight`
 
 2. Find the .ino file inside the folder you got.
 3. Launch the Arduino IDE.
